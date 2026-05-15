@@ -32,6 +32,34 @@
 - Energia alta, sem pausa
 - B-roll ou cut diferente no segundo 2-3 (não frame parado)
 
+## CTA padrão dos 3 reels
+
+Mesmo CTA nos 3 (consistência ajuda algoritmo + audiência reconhece a série). **Primeira frase varia** por reel pra puxar a tese específica que a pessoa acabou de ouvir.
+
+### CTA falado (no vídeo) — ~10-12s
+
+> "Cola no perfil. Caixa de perguntas tá aberta lá no stories — pergunta o que quiser sobre relacionamento com cliente.
+>
+> Construí ferramentas pra isso.
+>
+> **Você já pagou pra atrair esse cliente uma vez. Não paga de novo.**"
+
+### CTA escrito (legenda do post) — versão completa
+
+> Cola no perfil — caixa de perguntas aberta lá no stories. Eu respondo dúvidas sobre relacionamento com o cliente e sobre as ferramentas que construí pra ajudar empresário a se aproximar de quem JÁ é cliente — vendendo mais por canais efetivos e MUITO mais baratos.
+>
+> Afinal, você já pagou pra atrair esse cliente uma vez. Não paga de novo.
+
+### Variação da 1ª frase por reel (cola no CTA padrão depois)
+
+| Reel | Primeira frase do CTA falado |
+|---|---|
+| **REEL 1 (89%)** | "Quer saber quantos VOCÊ tem nesse número?" |
+| **REEL 2 (balde furado)** | "Quer aprender a tampar os furos antes de virar a torneira?" |
+| **REEL 3 (3 vazamentos)** | "Quer parar de ver dinheiro escorrer assim?" |
+
+> **Por que esse CTA funciona:** termina com a frase-âncora "**você já pagou pra atrair esse cliente uma vez, não paga de novo**" — fecha o loop emocional dos 3 reels (atração custa caro, retenção é grátis), e o "afinal" no escrito + a pausa antes da frase no falado dão peso de conclusão lógica. Convite pra caixinha (não pro DM) é zero fricção: pessoa entra no perfil, faz pergunta anônima, você responde no stories — vira sequência infinita de conteúdo derivado.
+
 ---
 
 ## REEL 1 — Cliente atual abandonado
@@ -65,7 +93,13 @@ Texto na tela: `89%` em fonte gigante + tarja.
 
 **CTA (70-90s):**
 
-> "Comenta quantos clientes ativos você falou com nos últimos 7 dias. Quero ver."
+> "Quer saber quantos VOCÊ tem nesse número?
+>
+> Cola no perfil. Caixa de perguntas tá aberta lá no stories — pergunta o que quiser sobre relacionamento com cliente.
+>
+> Construí ferramentas pra isso.
+>
+> **Você já pagou pra atrair esse cliente uma vez. Não paga de novo.**"
 
 **Variações por público (mesmo roteiro, troca só o exemplo aninhado):**
 
@@ -126,7 +160,13 @@ Texto na tela: `BALDE FURADO` em fonte gigante + corte de B-roll com água escap
 
 **CTA (70-90s):**
 
-> "Pega papel e caneta. Lista 10 clientes ativos. Marca 1 conversa real essa semana. É isso. Volta aqui e me conta no comentário."
+> "Quer aprender a tampar os furos antes de virar a torneira?
+>
+> Cola no perfil. Caixa de perguntas tá aberta lá no stories — pergunta o que quiser sobre relacionamento com cliente.
+>
+> Construí ferramentas pra isso.
+>
+> **Você já pagou pra atrair esse cliente uma vez. Não paga de novo.**"
 
 **Variações:**
 
@@ -172,7 +212,13 @@ Texto na tela: `3 DINHEIROS INVISÍVEIS` + numeração `1...2...3...`
 
 **CTA (70-90s):**
 
-> "Posta nos stories e marca um amigo dono de empresa. Aposto que ele também não sabe esse número."
+> "Quer parar de ver dinheiro escorrer assim?
+>
+> Cola no perfil. Caixa de perguntas tá aberta lá no stories — pergunta o que quiser sobre relacionamento com cliente.
+>
+> Construí ferramentas pra isso.
+>
+> **Você já pagou pra atrair esse cliente uma vez. Não paga de novo.**"
 
 **Variações:**
 
