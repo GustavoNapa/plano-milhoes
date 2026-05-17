@@ -70,6 +70,28 @@ Sempre 3+ ofícios consecutivos. Aterra o exemplo.
 - ✅ Quando usa anglicismo: marca com "tal do" antes
 - ✅ Sintaxe PME: "colocou o dinheiro na sua mão" > "fez aporte financeiro"
 
+### 4.1. Marca regional — Timóteo / Vale do Aço / Minas Gerais
+
+Gustavo é **natural de Timóteo/MG** (Vale do Aço, interior mineiro). Mora atualmente em BH. Tem léxico de mineirês raiz disponível.
+
+**Decisão estratégica:** deixar o mineirês **vazar de propósito** como diferenciação. No nicho #5, autenticidade pesa mais que polish — empresário 45+ desconfia de "padrão SP". 99% dos criadores B2B falam o mesmo paulistanês — sotaque/léxico de MG é separador imediato.
+
+**Expressões a confirmar com Gustavo (preencher conforme ele usa):**
+
+- [ ] "uai" / "uai sô"
+- [ ] "trem" como genérico ("esse trem aqui não funciona")
+- [ ] "ocê" / "cê"
+- [ ] "nó" (interjeição)
+- [ ] "rapaz" (vocativo)
+- [ ] "vixe" / "vixi"
+- [ ] "trem bão" / "que trem doido"
+- [ ] Diminutivos verbais ("dá uma olhadinha", "espera só um tiquinho")
+- [ ] Outras locais de Timóteo
+
+**Nos 2 reels gravados em 15/05/2026 o mineirês NÃO apareceu** (registro mais neutro nacional). Atualizar essa seção quando aparecer em gravações futuras OU quando Gustavo listar as que usa naturalmente.
+
+**Regra:** quando uma expressão regional dele aparecer em vídeo gravado ou em mensagem espontânea, marcar como ✅ confirmada e usar em roteiros futuros. NÃO inventar mineirês que ele não usa — fica afetado, soa pior que neutro.
+
 ---
 
 ## 5. O que está NO DNA dele (usar)
